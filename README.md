@@ -12,24 +12,6 @@
 
 6. Please do submit an issue on this repository if you encounter issues or want to suggest new features! Enjoy! 😊
 
-## Installation (Developers)
-
-**Dependencies:**
-
-* Visual Studio 2017 or Visual Studio 2019
-
-* .NET Framework 4.7.2 (*will be upgraded to .NET Core 3.0 in the future*)
-
-* Newtonsoft
-
-* DiscordRichPresence by [Lachee/discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp)
-
-* RestSharp
-
-* (Not in this build yet) DesktopHelpers
-
-* (Not in this build yet) Microsoft.Windows.SDK.Contracts
-
 
 ## Privacy Policy
 
