@@ -37,11 +37,6 @@ Please note that no information from this application is sent to any third-party
 
 ## Credits
 
-User Interface
-
-- Discord Wumpus Logo by [Discord](https://discordapp.com/branding)
-
-
 Source Code
 
 - Official documentation: https://discordapp.com/developers/docs/rich-presence/how-to
@@ -51,7 +46,7 @@ Source Code
 
 ## MIT License
 
-Copyright 2021
+Copyright (c) MakufonSkifto 2021
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
