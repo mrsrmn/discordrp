@@ -8,9 +8,7 @@
 
 4. Run DiscordRP.exe (Add to your Anti-Virus Exclusion List in case it flags this as malware)
 
-5. Follow Tutorial Screen
-
-6. Please do submit an issue on this repository if you encounter issues or want to suggest new features! Enjoy! 😊
+6. Please do submit an issue on this repository if you encounter issues or want to suggest new features!
 
 
 ## Privacy Policy
