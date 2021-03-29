@@ -4,9 +4,9 @@
 
 2. Get the latest version and download the `discordrp.rar` file
 
-3. Create a folder on your preferred save location and extract the ZIP content to the folder
+3. Create a folder on your preferred save location and extract the RAR content to the folder
 
-4. Run DiscordRP.exe (Add to your Anti-Virus Exclusion List in case it flags this as malware)
+4. Go to `bin\Debug\netcoreapp3.1` and run `discordrp.exe` (Add to your Anti-Virus Exclusion List in case it flags this as malware)
 
 6. Please do submit an issue on this repository if you encounter issues or want to suggest new features!
 
