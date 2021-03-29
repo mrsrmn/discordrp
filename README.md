@@ -2,7 +2,7 @@
 
 1. Go to the 'Releases tab'
 
-2. Get the latest version and download the ZIP file
+2. Get the latest version and download the `discordrp.rar` file
 
 3. Create a folder on your preferred save location and extract the ZIP content to the folder
 
