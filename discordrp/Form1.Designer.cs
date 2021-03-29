@@ -29,7 +29,6 @@ namespace discordrp
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button = new System.Windows.Forms.Button();
             this.clientId = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -72,7 +71,7 @@ namespace discordrp
             // 
             // clientId
             // 
-            this.clientId.Location = new System.Drawing.Point(149, 12);
+            this.clientId.Location = new System.Drawing.Point(151, 11);
             this.clientId.Name = "clientId";
             this.clientId.Size = new System.Drawing.Size(207, 20);
             this.clientId.TabIndex = 2;
@@ -89,7 +88,7 @@ namespace discordrp
             // 
             // detailsBox
             // 
-            this.detailsBox.Location = new System.Drawing.Point(150, 41);
+            this.detailsBox.Location = new System.Drawing.Point(151, 41);
             this.detailsBox.Name = "detailsBox";
             this.detailsBox.Size = new System.Drawing.Size(206, 20);
             this.detailsBox.TabIndex = 4;
@@ -106,7 +105,7 @@ namespace discordrp
             // 
             // stateBox
             // 
-            this.stateBox.Location = new System.Drawing.Point(150, 76);
+            this.stateBox.Location = new System.Drawing.Point(151, 76);
             this.stateBox.Name = "stateBox";
             this.stateBox.Size = new System.Drawing.Size(207, 20);
             this.stateBox.TabIndex = 6;
@@ -127,16 +126,16 @@ namespace discordrp
             this.timestampBox.ForeColor = System.Drawing.Color.Silver;
             this.timestampBox.Location = new System.Drawing.Point(14, 118);
             this.timestampBox.Name = "timestampBox";
-            this.timestampBox.Size = new System.Drawing.Size(115, 25);
+            this.timestampBox.Size = new System.Drawing.Size(147, 25);
             this.timestampBox.TabIndex = 8;
             this.timestampBox.Text = "Enable Timestamp";
             this.timestampBox.UseVisualStyleBackColor = true;
             // 
             // smallImageKey
             // 
-            this.smallImageKey.Location = new System.Drawing.Point(149, 161);
+            this.smallImageKey.Location = new System.Drawing.Point(151, 160);
             this.smallImageKey.Name = "smallImageKey";
-            this.smallImageKey.Size = new System.Drawing.Size(207, 20);
+            this.smallImageKey.Size = new System.Drawing.Size(205, 20);
             this.smallImageKey.TabIndex = 11;
             // 
             // label7
@@ -171,9 +170,9 @@ namespace discordrp
             // 
             // largeImageText
             // 
-            this.largeImageText.Location = new System.Drawing.Point(149, 270);
+            this.largeImageText.Location = new System.Drawing.Point(151, 270);
             this.largeImageText.Name = "largeImageText";
-            this.largeImageText.Size = new System.Drawing.Size(207, 20);
+            this.largeImageText.Size = new System.Drawing.Size(205, 20);
             this.largeImageText.TabIndex = 17;
             // 
             // label10
@@ -188,7 +187,7 @@ namespace discordrp
             // 
             // largeImageKey
             // 
-            this.largeImageKey.Location = new System.Drawing.Point(149, 232);
+            this.largeImageKey.Location = new System.Drawing.Point(150, 232);
             this.largeImageKey.Name = "largeImageKey";
             this.largeImageKey.Size = new System.Drawing.Size(207, 20);
             this.largeImageKey.TabIndex = 15;
@@ -318,7 +317,6 @@ namespace discordrp
             this.Controls.Add(this.label2);
             this.Controls.Add(this.clientId);
             this.Controls.Add(this.button);
-            this.Icon = ((System.Drawing.Icon) (resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(584, 512);
             this.MinimumSize = new System.Drawing.Size(584, 512);
