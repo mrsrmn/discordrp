@@ -6,7 +6,7 @@
 
 3. Create a folder on your preferred save location and extract the ZIP content to the folder
 
-4. Run RikoRPC.exe (Add to your Anti-Virus Exclusion List in case it flags this as malware)
+4. Run DiscordRP.exe (Add to your Anti-Virus Exclusion List in case it flags this as malware)
 
 5. Follow Tutorial Screen
 
